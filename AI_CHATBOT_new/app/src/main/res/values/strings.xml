@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AI CHATBOT</string>
+    <string name="chatbot">Chatbot</string>
+    <string name="Ask_a_question">Ask_a_question!</string>
+    <string name="hi_i_am_chat_bot_how_can_i_help_you">Hi! I am Chat Bot. How can i help you?</string>
+    <string name="ask_a_question">Ask a question\n</string>
+    <string name="Clear_Chat">Clear_chat\n</string>
+    <string name="clear_chat">Clear Chat</string>
+</resources>
