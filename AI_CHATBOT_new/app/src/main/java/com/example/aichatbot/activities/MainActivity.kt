@@ -46,7 +46,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var chatbotSection: ConstraintLayout
     private lateinit var clearChatButton: Button
 
-    private val apiKey = "AIzaSyBE5_GoIDCJL4EXNHSYgHf3a8yOpUUKbLc"
+    private val apiKey = "Your API Key here"
     private val apiUrl =
         "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=$apiKey"
 
